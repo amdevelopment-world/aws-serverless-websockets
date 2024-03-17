@@ -1,0 +1,27 @@
+{
+  "name": "aws-serverless-websockets",
+  "version": "1.0.0-alpha.1000",
+  "description": "easy serverless websockets for AWS with channels",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "p": "npm publish"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com:amdevelopment-world/aws-serverless-websockets.git"
+  },
+  "readme": "README.md",
+  "keywords": [
+    "aws",
+    "websockets",
+    "lambda",
+    "api",
+    "gateway"
+  ],
+  "author": "mars@amdevelopment.world",
+  "license": "ISC"
+}
